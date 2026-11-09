@@ -1,0 +1,22 @@
+{
+  "wheel_id": 831,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-114",
+  "project": "pool-retaining-walls-cost-guide-557d25efea7819562510ffc7619944d",
+  "parent_t1_ref": "poolretainingwallsbrisbane-156",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls cost guide",
+  "intended_url": "https://sites-e470-2.web.app/pool-retaining-walls-cost-guide-557d25efea7819562510ffc7619944d/",
+  "tier": "T2",
+  "writeback_nonce": "8863abcc70786e63",
+  "links": [
+    {
+      "target_url": "http://pool-retaining-walls-warranty-7f2061b1a2cdf4adb139be57fc18b3fba.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Pool Retaining Walls Warranty: Warranty Considerations",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
